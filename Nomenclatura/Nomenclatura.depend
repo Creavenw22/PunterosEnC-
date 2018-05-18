@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526649496 source:d:\##clonegit\punterosenc-\nomenclatura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<strings.h>
+
