@@ -1,0 +1,19 @@
+git clone linkRepositorio
+
+//cd el directorio del repo ej:
+cd PunterosEnC-
+
+git status
+
+if (hay rojo)
+{
+git add .
+}
+
+loop()
+{
+git commit -m "Mensaje de porque se commitea"
+....
+}
+
+git push origin master -f
